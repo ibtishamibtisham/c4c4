@@ -1,0 +1,2 @@
+export const MOVIEDATA = "MOVIEDATA";
+export const FILTER_MOVIES_BY_GENRE = "FILTER_MOVIES_BY_GENRE";
